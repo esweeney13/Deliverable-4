@@ -1,0 +1,15 @@
+/Users/eriksweeney/Projects/DELIVERABLE 3 NEW/DELIVERABLE 3 NEW/bin/Debug/net7.0/DELIVERABLE 3 NEW
+/Users/eriksweeney/Projects/DELIVERABLE 3 NEW/DELIVERABLE 3 NEW/bin/Debug/net7.0/DELIVERABLE 3 NEW.deps.json
+/Users/eriksweeney/Projects/DELIVERABLE 3 NEW/DELIVERABLE 3 NEW/bin/Debug/net7.0/DELIVERABLE 3 NEW.runtimeconfig.json
+/Users/eriksweeney/Projects/DELIVERABLE 3 NEW/DELIVERABLE 3 NEW/bin/Debug/net7.0/DELIVERABLE 3 NEW.dll
+/Users/eriksweeney/Projects/DELIVERABLE 3 NEW/DELIVERABLE 3 NEW/bin/Debug/net7.0/DELIVERABLE 3 NEW.pdb
+/Users/eriksweeney/Projects/DELIVERABLE 3 NEW/DELIVERABLE 3 NEW/obj/Debug/net7.0/DELIVERABLE 3 NEW.csproj.AssemblyReference.cache
+/Users/eriksweeney/Projects/DELIVERABLE 3 NEW/DELIVERABLE 3 NEW/obj/Debug/net7.0/DELIVERABLE 3 NEW.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eriksweeney/Projects/DELIVERABLE 3 NEW/DELIVERABLE 3 NEW/obj/Debug/net7.0/DELIVERABLE 3 NEW.AssemblyInfoInputs.cache
+/Users/eriksweeney/Projects/DELIVERABLE 3 NEW/DELIVERABLE 3 NEW/obj/Debug/net7.0/DELIVERABLE 3 NEW.AssemblyInfo.cs
+/Users/eriksweeney/Projects/DELIVERABLE 3 NEW/DELIVERABLE 3 NEW/obj/Debug/net7.0/DELIVERABLE 3 NEW.csproj.CoreCompileInputs.cache
+/Users/eriksweeney/Projects/DELIVERABLE 3 NEW/DELIVERABLE 3 NEW/obj/Debug/net7.0/DELIVERABLE 3 NEW.dll
+/Users/eriksweeney/Projects/DELIVERABLE 3 NEW/DELIVERABLE 3 NEW/obj/Debug/net7.0/refint/DELIVERABLE 3 NEW.dll
+/Users/eriksweeney/Projects/DELIVERABLE 3 NEW/DELIVERABLE 3 NEW/obj/Debug/net7.0/DELIVERABLE 3 NEW.pdb
+/Users/eriksweeney/Projects/DELIVERABLE 3 NEW/DELIVERABLE 3 NEW/obj/Debug/net7.0/DELIVERABLE 3 NEW.genruntimeconfig.cache
+/Users/eriksweeney/Projects/DELIVERABLE 3 NEW/DELIVERABLE 3 NEW/obj/Debug/net7.0/ref/DELIVERABLE 3 NEW.dll
